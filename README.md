@@ -1,0 +1,1 @@
+# this is a copy of vuelidate package but work with vite instead of mix  
