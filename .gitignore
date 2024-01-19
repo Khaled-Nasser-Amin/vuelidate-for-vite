@@ -4,6 +4,7 @@ lib/
 npm-debug.log
 coverage
 gh-pages
+src.zip
 *.tgz
 packages/docs/src/.vuepress/dist
 /packages/*/dist/
